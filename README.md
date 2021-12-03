@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonahLuo)](https://github.com/JonahLuo/github-readme-stats)
+[![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonahLuo)](https://github.com/JonahLuo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonahLuo&layout=compact)](https://github.com/JonahLuo/github-readme-stats)
 
